@@ -1,0 +1,9 @@
+{
+	"name": "gitpurposedatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2107b6ff-d0d2-42cc-b2bf-aed924fe740f",
+		"tenantId": "00e955e2-f0ed-4e0d-9a75-601c2dc05356"
+	}
+}
