@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "gitpurposedatafactory"
+		},
+		"linkedservice for github_connectionString": {
+			"value": ""
 		}
 	}
 }
